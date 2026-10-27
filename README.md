@@ -58,6 +58,54 @@ Färdigt mejl med rätt mottagare: [tentero.se/begar-ut-gamla-tentor/](https://t
 Metod, tidsplan och vad du gör när tentorna saknar facit:
 [tentero.se/ova-pa-gamla-tentor/](https://tentero.se/ova-pa-gamla-tentor/)
 
+## Kurser med övningstentor på Göteborgs universitet
+
+Tentero har nyskrivna övningstentor med facit i 40 kurser på Göteborgs universitet. De är inte gamla
+tentor. Varje kurssida beskriver också hur du begär ut kursens gamla tentor. Listan gäller 2026-10-27.
+
+| Kod | Kurs | Program | Termin |
+| --- | --- | --- | --- |
+| [EKF103](https://tentero.se/gu/ekf103/) | Ekonomistyrning | Ekonomiprogrammet | 1 |
+| [EKF111](https://tentero.se/gu/ekf111/) | Externredovisning | Ekonomiprogrammet | 1 |
+| [EKFN10](https://tentero.se/gu/ekfn10/) | Introduktion till ekonomi | Ekonomiprogrammet | 1 |
+| [EKN102](https://tentero.se/gu/ekn102/) | Mikroekonomi | Ekonomiprogrammet | 1 |
+| [EKS101](https://tentero.se/gu/eks101/) | Statistik 1a | Ekonomiprogrammet | 1 |
+| [EKF104](https://tentero.se/gu/ekf104/) | Marknadsföring | Ekonomiprogrammet | 2 |
+| [EKF105](https://tentero.se/gu/ekf105/) | Ledarskap och organisation | Ekonomiprogrammet | 2 |
+| [EKF106](https://tentero.se/gu/ekf106/) | Företagsekonomi i praktiken | Ekonomiprogrammet | 2 |
+| [EKN101](https://tentero.se/gu/ekn101/) | Makroekonomi | Ekonomiprogrammet | 2 |
+| [EKN103](https://tentero.se/gu/ekn103/) | Financial economics | Ekonomiprogrammet | 2 |
+| [EKR101](https://tentero.se/gu/ekr101/) | Introduktion till handelsrätt | Ekonomiprogrammet | 2 |
+| [EKN115](https://tentero.se/gu/ekn115/) | International Economics | Ekonomiprogrammet | 3 |
+| [EKR102](https://tentero.se/gu/ekr102/) | Handelsrätt | Ekonomiprogrammet | 3 |
+| [EKS102](https://tentero.se/gu/eks102/) | Statistik 1b | Ekonomiprogrammet | 3 |
+| [HRL002](https://tentero.se/gu/hrl002/) | Handels- och transporträtt | Logistikprogrammet | 1 |
+| [KGG411](https://tentero.se/gu/kgg411/) | Företaget, logistikfunktionen och omvärlden | Logistikprogrammet | 1 |
+| [NEK101](https://tentero.se/gu/nek101/) | Grundläggande makroekonomi | Logistikprogrammet | 2 |
+| [NEK102](https://tentero.se/gu/nek102/) | Grundläggande mikroekonomi | Logistikprogrammet | 2 |
+| [STK110](https://tentero.se/gu/stk110/) | Statistik: Grundkurs 1 Introduktion | Logistikprogrammet | 2 |
+| [STK120](https://tentero.se/gu/stk120/) | Statistik: Grundkurs 2 Regressionsanalys | Logistikprogrammet | 2 |
+| [FEK101](https://tentero.se/gu/fek101/) | Företagsekonomi, Organisation och ledarskap | Logistikprogrammet | 3 |
+| [FEK102](https://tentero.se/gu/fek102/) | Företagsekonomi, Marknadsföring | Logistikprogrammet | 3 |
+| [FEK103](https://tentero.se/gu/fek103/) | Företagsekonomi, Externredovisning | Logistikprogrammet | 3 |
+| [FEK104](https://tentero.se/gu/fek104/) | Företagsekonomi, Ekonomistyrning | Logistikprogrammet | 3 |
+| [FEK202](https://tentero.se/gu/fek202/) | Företagsekonomi, Strategi | Logistikprogrammet | 4 |
+| [FEK203](https://tentero.se/gu/fek203/) | Företagsekonomi, Lönsamhet och finansiering | Logistikprogrammet | 4 |
+| [FEK204](https://tentero.se/gu/fek204/) | Företagsekonomi, Operativ styrning | Logistikprogrammet | 4 |
+| [FEK221](https://tentero.se/gu/fek221/) | Logistiska informationssystem | Logistikprogrammet | 5 |
+| [KGG421](https://tentero.se/gu/kgg421/) | Transporter, samhälle och miljö | Logistikprogrammet | 5 |
+| [FEK3L1](https://tentero.se/gu/fek3l1/) | Strategisk logistik, kandidatkurs | Logistikprogrammet | 6 |
+| [FEK3L2](https://tentero.se/gu/fek3l2/) | Operativ styrning, kandidatkurs | Logistikprogrammet | 6 |
+| [HRO101](https://tentero.se/gu/hro101/) | Grundläggande juridisk metod | Juristprogrammet | 1 |
+| [HRO203](https://tentero.se/gu/hro203/) | Familjerätt | Juristprogrammet | 2 |
+| [HRO301](https://tentero.se/gu/hro301/) | Teoritermin med allmän och speciell förvaltningsrätt samt miljörätt | Juristprogrammet | 3 |
+| [HRO401](https://tentero.se/gu/hro401/) | Straffrätt | Juristprogrammet | 4 |
+| [HRO402](https://tentero.se/gu/hro402/) | Processrätt | Juristprogrammet | 4 |
+| [HRO560](https://tentero.se/gu/hro560/) | Kredit- och exekutionsrätt | Juristprogrammet | 5 |
+| [HRO580](https://tentero.se/gu/hro580/) | Arbetsrätt med mera | Juristprogrammet | 5 |
+| [HRO600](https://tentero.se/gu/hro600/) | Internationell rätt | Juristprogrammet | 6 |
+| [HRO700](https://tentero.se/gu/hro700/) | Skatterätt med redovisning | Juristprogrammet | 6 |
+
 ## Data
 
 `data/gamla-tentor-larosaten.csv` har en rad per lärosäte (första raden är en kommentar som börjar med
